@@ -1,7 +1,7 @@
 # Steam Locomotives on U.S. Stamps
 
 ## #295
-<img src="https://raw.githubusercontent.com/michael2012z/SteamLocomotivesOnStamps/master/UnitedStates/US-295/ebay03.jpg" height="100"/>
+<img src="https://raw.githubusercontent.com/michael2012z/SteamLocomotivesOnStamps/master/UnitedStates/US-295/ebay03.jpg" height=200/>
 
 On May 1st, 1901, United States issued a set of 6 stamps to commemorate Pan-American Exposition held in the same year. Among them was the stamp “Fast Express” (Scott # 295), on which a steam locomotive was depicted.
 
@@ -14,7 +14,7 @@ On May 1st, 1901, United States issued a set of 6 stamps to commemorate Pan-Amer
 
 ## #922
 
-<img src="https://raw.githubusercontent.com/michael2012z/SteamLocomotivesOnStamps/master/UnitedStates/US-922/Transcontinental_RR_1944-3c.jpg" style="height:50px"/>
+<img src="https://raw.githubusercontent.com/michael2012z/SteamLocomotivesOnStamps/master/UnitedStates/US-922/Transcontinental_RR_1944-3c.jpg" height=200/>
 
 In 1944, to commemorate the 75th Anniversary of the completion of the First Transcontinental Railroad, a postage stamp (Scott #922) was issued.
 
