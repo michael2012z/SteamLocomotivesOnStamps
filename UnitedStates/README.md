@@ -1,10 +1,7 @@
 # Steam Locomotives on U.S. Stamps
 
 ## #295
-
-![](https://raw.githubusercontent.com/michael2012z/SteamLocomotivesOnStamps/master/UnitedStates/US-295/ebay03.jpg | height=50)
-
-<img src="https://raw.githubusercontent.com/michael2012z/SteamLocomotivesOnStamps/master/UnitedStates/US-295/ebay03.jpg" style="height:50px"/>
+<img src="https://raw.githubusercontent.com/michael2012z/SteamLocomotivesOnStamps/master/UnitedStates/US-295/ebay03.jpg" height="100"/>
 
 On May 1st, 1901, United States issued a set of 6 stamps to commemorate Pan-American Exposition held in the same year. Among them was the stamp “Fast Express” (Scott # 295), on which a steam locomotive was depicted.
 
